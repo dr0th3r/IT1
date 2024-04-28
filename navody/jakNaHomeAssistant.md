@@ -8,6 +8,8 @@
 - zaškrtnete skip unattended install
 - zvolíte dostatek místa (např. 50GB)
 - po vytvoření přejděte do nastavení
+- jděte do Network
+- zvolte "Attached to: Bridge Adapter"
 ### Instalace debianu
 - zvolte install **NE GRAPHICAL INSTALL**
 - vyberte jazyk (ideálně angličtinu)
